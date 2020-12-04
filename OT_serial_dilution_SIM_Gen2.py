@@ -1,3 +1,5 @@
+#This is a protocol created from the Opentrons automatic serial dilution protocol generator, but adapted to use the Gen2 multi-pipette
+
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov 25 11:48:50 2020
