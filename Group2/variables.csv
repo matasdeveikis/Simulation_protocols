@@ -1,0 +1,5 @@
+﻿variable name,value
+plasmid_conc,20
+oligos,96
+growth_temp,37
+electroporation,False
